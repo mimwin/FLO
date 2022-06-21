@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=lQ33WtgD08Y
 |         기능        |                        화면                        |
 | :------------------------: | :------------------------------------------------: |
 |            초기화면           |  <img src=https://user-images.githubusercontent.com/63101979/174828943-07f03446-c8fd-4175-b278-e2c718d0d923.png width="90%"/> |
-|        홈 및 보관함 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src=https://user-images.githubusercontent.com/63101979/174829265-177b737f-a087-4e7b-aecb-2399a1e185d9.png width="70%"/> |
+|        홈 및 보관함 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src=https://user-images.githubusercontent.com/63101979/174829265-177b737f-a087-4e7b-aecb-2399a1e185d9.png width="65%"/> |
 |         음악 재생  |   <img src=https://user-images.githubusercontent.com/63101979/174829623-a622b359-873e-4353-adaa-d5669f784167.png  width="70%"/>   |
   
   <br>
