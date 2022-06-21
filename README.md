@@ -6,7 +6,7 @@
 </p>
 
 ## Description
-> 개발동아리 UMC에서 진행한 개인 프로젝트
+> 개발동아리 UMC에서 진행한 개인 프로젝트   
 > 2021.09. ~ 2021.12.
 
 
@@ -37,11 +37,15 @@
 
 ## Results
 ### 시연영상
-[https://www.youtube.com/watch?v=KXUUHbxHdcw](https://www.youtube.com/watch?v=lQ33WtgD08Y)
+https://www.youtube.com/watch?v=lQ33WtgD08Y
 
 ### App 화면
-
-
+|         기능        |                        화면                        |
+| :-----------------: | :------------------------------------------------: |
+|       초기화면      |  <img src=https://user-images.githubusercontent.com/63101979/174828943-07f03446-c8fd-4175-b278-e2c718d0d923.png width="90%"/> |
+|   홈 및 보관함 화면  | <img src=https://user-images.githubusercontent.com/63101979/174829265-177b737f-a087-4e7b-aecb-2399a1e185d9.png width="70%"/> |
+|  음악 재생 화면      |   <img src=https://user-images.githubusercontent.com/63101979/174829623-a622b359-873e-4353-adaa-d5669f784167.png  width="70%"/>   |
+  
   <br>
 
   <br>
